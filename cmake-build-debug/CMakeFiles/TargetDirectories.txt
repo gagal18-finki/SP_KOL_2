@@ -1,0 +1,5 @@
+/Users/eagleitsolutions/CLionProjects/kol_2/cmake-build-debug/CMakeFiles/test.dir
+/Users/eagleitsolutions/CLionProjects/kol_2/cmake-build-debug/CMakeFiles/kol_01.dir
+/Users/eagleitsolutions/CLionProjects/kol_2/cmake-build-debug/CMakeFiles/kol_02.dir
+/Users/eagleitsolutions/CLionProjects/kol_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eagleitsolutions/CLionProjects/kol_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
