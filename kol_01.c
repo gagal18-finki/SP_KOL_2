@@ -2,14 +2,6 @@
 #include <ctype.h>
 #include <string.h>
 
-void writeToFile() {
-    FILE *f = fopen("text.txt", "w");
-    char c;
-    while((c = getchar()) != '#') {
-        fputc(c, f);
-    }
-    fclose(f);
-}
 int samoglaska(char c){
     int check = toupper(c);
     if(check == 'A' || check == 'E' || check == 'I' || check == 'O' || check == 'U'){
@@ -23,7 +15,7 @@ int main() {
     // Vasiot kod zapocnuva od tuka
     char c, c_prva;
     int count = 0;
-    FILE *input = fopen("./text/text.txt", "r");
+    FILE *input = fopen("./text/text_1.txt", "r");
     c_prva = fgetc(input);
     while((c = fgetc(input)) != EOF){
         if(samoglaska(c_prva) && samoglaska(c)){

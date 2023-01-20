@@ -17,7 +17,9 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3,
+						4
 					]
 				}
 			],
@@ -34,7 +36,9 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3,
+						4
 					]
 				}
 			],
@@ -52,6 +56,20 @@
 					"id" : "kol_02::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-kol_02-Debug-9c3e92fd6be39e67680a.json",
 					"name" : "kol_02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kol_03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kol_03-Debug-38e0b94469c2962f3b42.json",
+					"name" : "kol_03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kol_04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kol_04-Debug-b4e6f6b3534a71546652.json",
+					"name" : "kol_04",
 					"projectIndex" : 0
 				},
 				{

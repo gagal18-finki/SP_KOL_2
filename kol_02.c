@@ -9,7 +9,7 @@ int najznacajnacifra(int n){
 }
 int main() {
     // Vasiot kod zapocnuva od tuka
-    FILE *input = fopen("./text/broevi.txt", "r");
+    FILE *input = fopen("./text/text_2.txt", "r");
     int broiDo, i, check, najznacajna_red = 0, najznacaen = 0;
     while(fscanf(input,"%d", &broiDo) != EOF){
         if(broiDo != 0){
